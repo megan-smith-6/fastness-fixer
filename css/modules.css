@@ -230,14 +230,6 @@ svg.img-flex {
   min-width: 12em; /* Slightly less than 200px, responsiveness built in */
 }
 
-.icon {
-  display: inline-block;
-  position: relative;
-  background: transparent none no-repeat center center;
-  background-size: contain;
-  vertical-align: middle;
-}
-
 .i-16, .i--16 {
   height: 16px;
   width: 16px;
